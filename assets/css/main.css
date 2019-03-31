@@ -80,6 +80,10 @@ header {
     text-align: center;
 }
 
+.purpletext{
+    color: #9966cc;
+}
+
 .navigation {
     background-color: #fff;
     border: 1px solid #ccc;
