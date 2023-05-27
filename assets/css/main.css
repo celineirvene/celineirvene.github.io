@@ -211,7 +211,8 @@ h1 > a:hover > .dot-head {
 
 .gravatar {
     /*background: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=200") no-repeat;*/
-    background: image("/assets/css/favicon.png") no-repeat;
+    /*background: image("/assets/css/favicon.png") no-repeat;*/
+    background-image: image("/assets/img/favicon.png");
     background-size: 200px 200px;
     border: 1px solid #ccc;
     border-radius: 100%;
