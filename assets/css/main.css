@@ -345,7 +345,8 @@ a.creative-commons:hover {
        only screen and (min--moz-device-pixel-ratio: 1.5),
        only screen and (min-resolution: '144dpi') {
     .gravatar {
-        background-image: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=400");
+        /*background-image: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=400");*/
+        background-image: image("/assets/img/favicon.png");
     }
 }
 
