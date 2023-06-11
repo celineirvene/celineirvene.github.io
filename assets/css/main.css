@@ -210,7 +210,8 @@ h1 > a:hover > .dot-head {
 }
 
 .gravatar {
-    background: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=200") no-repeat;
+    /*background: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=200") no-repeat;*/
+    background: url("https://media.licdn.com/dms/image/C4E03AQEp9Yim7AHULQ/profile-displayphoto-shrink_800_800/0/1628167455145?e=2147483647&v=beta&t=dhPXSVLaAoMivLCqdXO5I8ZDlT8nwoyaI_JYbXwUmLE") no-repeat;
     /*background: image("/assets/css/favicon.png") no-repeat;*/
     /*background-image: image("/assets/img/favicon.png");*/
     background-size: 200px 200px;
@@ -347,7 +348,8 @@ a.creative-commons:hover {
        only screen and (min--moz-device-pixel-ratio: 1.5),
        only screen and (min-resolution: '144dpi') {
     .gravatar {
-        background-image: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=400");
+        background-image: url("https://media.licdn.com/dms/image/C4E03AQEp9Yim7AHULQ/profile-displayphoto-shrink_800_800/0/1628167455145?e=2147483647&v=beta&t=dhPXSVLaAoMivLCqdXO5I8ZDlT8nwoyaI_JYbXwUmLE");
+        /*background-image: url("https://s.gravatar.com/avatar/fc9804fd5e18ac4cf7134920eb89f3bb?s=400");*/
         /*background-image: image("/assets/img/favicon.png");*/
     }
 }
